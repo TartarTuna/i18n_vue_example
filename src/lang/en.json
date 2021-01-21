@@ -1,0 +1,13 @@
+{
+  "profile": {
+    "title": [
+      "Application", "Member"
+    ],
+    "select": [
+      {
+        "title": "Position",
+        "option": ["company owner", "senior manager", "middle manager", "general staff", "others", "Professionals", "Student"]
+      }
+    ]
+  }
+}
