@@ -25,6 +25,7 @@ export default {
     setLang (evt) {
       const lang = evt.target.dataset.lang
       this.setActiveLang(lang)
+      // 刷新頁面
       return history.go(0)
     }
   }
